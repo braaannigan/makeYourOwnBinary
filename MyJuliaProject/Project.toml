@@ -1,0 +1,4 @@
+name = "MyJuliaProject"
+uuid = "1c626e49-3e66-4d63-86c5-2b6e33e064bb"
+authors = ["Unknown "]
+version = "0.1.0"
